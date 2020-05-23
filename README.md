@@ -1,3 +1,13 @@
+This project was created while following the Udemy course:
+
+[Complete React Developer](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/)
+
+A version of the project can be seen running at:
+
+[https://crwn-clothing-daj.herokuapp.com/](https://crwn-clothing-daj.herokuapp.com/)
+
+##
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
